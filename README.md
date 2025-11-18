@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Muizzuddin Fakhrul, a final-year Computer Science student specializing in Cybersecurity and DevOps. I am passionate about building secure, scalable systems, automating workflows, and exploring modern cloud-native technologies. My skills include Linux, Docker, Kubernetes, CI/CD, Python, and Bash scripting. You can view my portfolio at amuizzz.com
+I am Muizzuddin Fakhrul, a final-year Computer Science student specializing in Cybersecurity and DevOps. I am passionate about building secure, scalable systems, automating workflows, and exploring modern cloud-native technologies. My skills include Linux, Docker, Github, Github Action, Python, and more. You can view my portfolio at amuizzz.com
 
 
 ## 🌐 Socials:
